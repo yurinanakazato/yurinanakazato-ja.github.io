@@ -23,8 +23,7 @@ Y. Nakazato, G. Chiaki, N. Yoshida, S. Naoz, W. Lake, Y. Chiou
 
  
 ### 共著
-*__[he Supersonic Project: Lighting up the faint
-end of the JWST UV luminosity function]__  
+*__[The Supersonic Project: Lighting up the faint end of the JWST UV luminosity function](https://ui.adsabs.harvard.edu/abs/2023arXiv231003799W/abstract)__  
 C. E. Williams et al. (incl. Y.Nakazato)  
 2023, submitted to ApJL, arxiv:2310.03799  
 
