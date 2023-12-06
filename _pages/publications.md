@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## 論文
-### 主著 
+### 主著
 * __["Simulations of high-redshift [OIII] emitters: Chemical evolution and multi-line diagnostics"](https://arxiv.org/abs/2301.02416)__,  
   Y. Nakazato, N. Yoshida, D. Ceverino   
   2023, in Arxiv
@@ -22,12 +22,12 @@ Y. Nakazato, G. Chiaki, N. Yoshida, S. Naoz, W. Lake, Y. Chiou
  2022, The Astrophysical Journal Letters, 927, 1, L12
 
  
-### 共著
-*__[The Supersonic Project: Lighting up the faint end of the JWST UV luminosity function](https://ui.adsabs.harvard.edu/abs/2023arXiv231003799W/abstract)__  
+### 共著  
+* __[The Supersonic Project: Lighting up the faint end of the JWST UV luminosity function](https://ui.adsabs.harvard.edu/abs/2023arXiv231003799W/abstract)__  
 C. E. Williams et al. (incl. Y.Nakazato)  
 2023, submitted to ApJL, arxiv:2310.03799  
 
-*__[A Photon Burst Clears the Earliest Dusty Galaxies: Modeling Dust in High-redshift Galaxies from ALMA to JWST](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4801T/abstract)__  
+* __[A Photon Burst Clears the Earliest Dusty Galaxies: Modeling Dust in High-redshift Galaxies from ALMA to JWST](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4801T/abstract)__  
 D. Tsuna et al. (incl.Y. Nakazato)  
 2023, Monthly Notices of the Royal Astronomical Society, 526, 4, 2023  
 
