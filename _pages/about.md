@@ -20,6 +20,7 @@ redirect_from:
 yurina.nakazato_at_phys.s.u-tokyo.ac.jp (_at_を@に)  
 
 ## 最近のニュース:  
+- 2024/01/31: 早期星団に関する共同研究がプレスリリースされました。
 - 2023/11/21: 11月21日-12月22日までマドリード自治大学にて研究滞在をしています。  
 - 2023/11/07: 国際学会"Resolving the Extragalactic Universe with ALMA & JWST" で研究発表しました。  
 - 2023/09/22: 天文学会 秋季年会にて研究発表をしました。
